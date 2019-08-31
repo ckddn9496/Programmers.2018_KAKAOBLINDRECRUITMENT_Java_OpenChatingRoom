@@ -1,0 +1,2 @@
+# Programmers.2018_KAKAOBLINDRECRUITMENT_Java_OpenChatingRoom
+Programmers 2018_KAKAOBLINDRECRUITMENT_OpenChatingRoom(오픈채팅방)
